@@ -1,0 +1,1 @@
+"# P4-Build-it-Bigger"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/shivasurya/P4-Build-it-Bigger.gitgit push -u origin master
